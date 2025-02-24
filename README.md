@@ -1,5 +1,6 @@
 # HR-analytics-Employee-presence-insights
 Employee Leave & Hybrid Work Analysis Dashboard
+
 Overview:
 This project automates the processing of employee leave data from a pivot-format CSV file into a structured tabular format, enabling insightful analysis of leave patterns.
 
